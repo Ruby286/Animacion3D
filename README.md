@@ -4,7 +4,7 @@
 
 ---
 
-🌐 **[[Ver web → ruby286.github.io/Animacion3D](https://ruby286.github.io/Animacion3D/)](https://ruby286.github.io/Animacion3D/)**
+🌐 **[Ver web → ruby286.github.io/Animacion3D]**
 
 ---
 
